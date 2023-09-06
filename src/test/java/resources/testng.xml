@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="qateam.automation.framework">
+    <test name="QaTeamAutomationFramework">
+        <classes>
+            <class name="services.QATeamAPITestRunner"/>
+        </classes>
+    </test>
+</suite>
